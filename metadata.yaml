@@ -1,0 +1,25 @@
+_repo: Travels-in-Syria-and-the-Holy-Land_8884
+creator:
+  author:
+    agent_name: Burckhardt, John Lewis
+    alias: Burckhardt, J. Louis
+    birthdate: 1784
+    deathdate: 1817
+    gutenberg_agent_id: '2916'
+    url: http://www.gutenberg.org/2009/agents/2916
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Ludwig_Burckhardt
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Palestine -- Description and travel'
+- !lcsh 'Syria -- Description and travel'
+title: Travels in Syria and the Holy Land
+url: http://www.gutenberg.org/ebooks/8884
